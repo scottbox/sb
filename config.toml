@@ -1,0 +1,4 @@
+baseURL = 'https://www.scottbrown.me.uk'
+languageCode = 'en-gb'
+title = 'Scott Brown, Web Developer'
+theme = 'sb1'

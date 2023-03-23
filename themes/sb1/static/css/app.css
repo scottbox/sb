@@ -1,0 +1,5 @@
+@import url(https://fonts.bunny.net/css?family=quattrocento:400|quattrocento-sans:400,700);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
